@@ -46,7 +46,6 @@ Creator of Protector App – a mission-driven solution for women's safety, built
 
 ## 📸 Screenshots
 !Home Screen
-
 ---
 
 ## 📄 License
