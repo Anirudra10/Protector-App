@@ -45,7 +45,8 @@ Creator of Protector App – a mission-driven solution for women's safety, built
 ---
 
 ## 📸 Screenshots
-_Add screenshots or demo GIFs in the `/screenshots` folder to showcase your app._
+_Homescreen._
+!Homescreen
 
 ---
 
