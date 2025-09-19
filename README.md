@@ -36,6 +36,19 @@ Protector App allows users to quickly notify a designated app team when they are
 5. Test the Danger button and ensure sound playback is functional.
 6. Save and publish the app.
 
+
+## 🚀 How to Run the Protector App
+
+1. Download the ZIP file from this repository.
+2. Extract the contents to your local machine.
+3. Open PowerApps Studio.
+4. Click on **Apps** → **Import canvas app**.
+5. Upload the `.msapp` file from the extracted folder.
+6. Connect the app to your SharePoint list (create columns for user info, contacts, and alerts).
+7. Configure Twilio credentials in Power Automate (if flows are included).
+8. Save and publish the app.
+
+
 ---
 
 ## 👨‍💻 Author
