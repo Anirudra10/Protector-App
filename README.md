@@ -44,9 +44,7 @@ Creator of Protector App – a mission-driven solution for women's safety, built
 
 ---
 
-## 📸 screenshots
-https://github.com/Anirudra10/Protector-App/tree/baaabc5db79e297066d0a2aec3744d8fb4a5269f/screenshots
-##_Homescreen._
+## 📸 Screenshots
 !Homescreen
 
 ---
